@@ -3,7 +3,7 @@ package fields
 import (
 	"errors"
 	"fmt"
-	"github.com/kirves/go-form-it/common"
+	"github.com/FinalLevel/go-form-it/common"
 	"reflect"
 	"time"
 )

@@ -6,7 +6,7 @@ package widgets
 import (
 	"bytes"
 	"fmt"
-	"github.com/kirves/go-form-it/common"
+	"github.com/FinalLevel/go-form-it/common"
 	"html/template"
 )
 

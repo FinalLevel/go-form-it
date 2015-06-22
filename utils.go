@@ -2,7 +2,7 @@ package forms
 
 import (
 	"bytes"
-	"github.com/kirves/go-form-it/fields"
+	"github.com/FinalLevel/go-form-it/fields"
 	"html/template"
 	"reflect"
 )
