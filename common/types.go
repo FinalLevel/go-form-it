@@ -7,7 +7,7 @@ import (
 )
 
 const (
-	PACKAGE_NAME = "github.com/kirves/go-form-it"
+	PACKAGE_NAME = "github.com/FinalLevel/go-form-it"
 )
 
 // Input field types
